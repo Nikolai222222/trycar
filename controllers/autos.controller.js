@@ -5,7 +5,7 @@ const{autos} =require("../autos");
 const getAuto=(req=request, res=response)=>{
     return res.json({
         status:true,
-        robots,
+        autos,
         statusCode : 200
     });
 }
