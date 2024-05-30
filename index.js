@@ -2,7 +2,7 @@ const express = require("express");
 const app=express();
 const port = 3001;
 
-Header("Acces-ControlAllow-Origin: *");
+Header("Acces-Control-Allow-Origin: *");
 
 const { getAuto, getAutoById } =require("./controllers/autos.controller");
 
