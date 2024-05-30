@@ -1,9 +1,8 @@
 const express = require("express");
 const app=express();
 const port = 3001;
-const cors = require('cors');
 
-app.use((cors));
+Header("Acces-ControlAllow-Origin: *");
 
 const { getAuto, getAutoById } =require("./controllers/autos.controller");
 
