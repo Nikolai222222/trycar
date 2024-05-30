@@ -1,6 +1,6 @@
 const express = require("express");
 const app=express();
-const port = 5501;
+const port = 3001;
 
 const { getAuto, getAutoById } =require("./controllers/autos.controller");
 
