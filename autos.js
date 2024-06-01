@@ -362,7 +362,7 @@ const autos = [
         "series":4,
         "id": "029",
         "name": "Subaru",
-        "image":"https://i.pinimg.com/736x/2a/a2/24/2aa22462d10c1049eee163c757a4c92e.jpg",
+        "image":"https://i.pinimg.com/originals/0b/c9/e0/0bc9e08113ec0fe06d4e2904b90d52ec.jpg",
         "model": "Impreza Hatchback",
         "year": "2007",
         "price":"$26.995",
