@@ -470,6 +470,192 @@ const autos = [
         "gearbox":"Automatic"
        },
 
+       //porsche all gen
+       {
+        "series":6,
+        "id": "038",
+        "name": "Porsche",
+        "image":"https://image.hmn.com/_IhkGSQ_zyd4u4NWd1MlfTQ4cDU=/820x545/uimage/142905933.jpg",
+        "model": "911 E",
+        "year": "1969",
+        "price":"$62.100",
+        "mileage":"95,630Mi",
+        "gearbox":"Manual"
+       },
+
+       {
+        "series":6,
+        "id": "039",
+        "name": "Porsche",
+        "image":"https://i.pinimg.com/736x/82/2e/55/822e5579b2714733f6e4921ba93088a1.jpg",
+        "model": "911 (964)",
+        "year": "1991",
+        "price":"$229.890",
+        "mileage":"93.000km",
+        "gearbox":"Automatic"
+       },
+
+       {
+        "series":6,
+        "id": "040",
+        "name": "Porsche",
+        "image":"https://cdn.elferspot.com/wp-content/uploads/2023/10/03/PORSCHE-993-GT-2-for-sale-01-1800x1202-Kopie-1.jpg?class=xl",
+        "model": "911 (993)",
+        "year": "1993",
+        "price":"$79.990",
+        "mileage":"52.000km",
+        "gearbox":"Manual"
+       },
+
+       {
+        "series":6,
+        "id": "041",
+        "name": "Porsche",
+        "image":"https://i.pinimg.com/originals/7f/21/6c/7f216c604d09ab59577daf59bf04c935.jpg",
+        "model": "911 GT1",
+        "year": "1997",
+        "price":"$5.665.000",
+        "mileage":"7.900km",
+        "gearbox":"Automatic"
+       },
+
+       {
+        "series":6,
+        "id": "042",
+        "name": "Porsche",
+        "image":"https://i.pinimg.com/736x/fe/63/2c/fe632ca0612d93625d4fca42915f87d4.jpg",
+        "model": "911 (996)",
+        "year": "1998",
+        "price":"$56.650",
+        "mileage":"119.080km",
+        "gearbox":"Automatic"
+       },
+
+       {
+        "series":6,
+        "id": "043",
+        "name": "Porsche",
+        "image":"https://i.pinimg.com/736x/23/3c/64/233c641507a20484575e2ee44a3581fc.jpg",
+        "model": "911 (997)",
+        "year": "1997",
+        "price":"$44.997",
+        "mileage":"137.900km",
+        "gearbox":"Manual"
+       },
+       {
+        "series":6,
+        "id": "044",
+        "name": "Porsche",
+        "image":"https://i.pinimg.com/736x/dc/21/26/dc21267f392ae46e27ca3cabc4d1c06e.jpg",
+        "model": "991 Turbo",
+        "year": "2017",
+        "price":"$147.500",
+        "mileage":"50.300km",
+        "gearbox":"Automatic"
+       },
+
+       {
+        "series":6,
+        "id": "045",
+        "name": "Porsche",
+        "image":"https://i.pinimg.com/736x/be/c6/ab/bec6aba1d88dfee00565fe970125d548.jpg",
+        "model": "991 GT2 RS",
+        "year": "2019",
+        "price":"$549.900",
+        "mileage":"2.980km",
+        "gearbox":"Automatic"
+       },
+
+       {
+        "series":6,
+        "id": "046",
+        "name": "Porsche",
+        "image":"https://i.pinimg.com/736x/90/da/aa/90daaad6a9af9f7d402f12fd2f6eca18.jpg",
+        "model": "991 GT3",
+        "year": "2018",
+        "price":"$139.997",
+        "mileage":"23.600km",
+        "gearbox":"Automatic"
+       },
+       {
+        "series":6,
+        "id": "047",
+        "name": "Porsche",
+        "image":"https://i.pinimg.com/736x/c2/fa/b1/c2fab1a58a8a28a630e44ffb6337dbda.jpg",
+        "model": "991 R",
+        "year": "2018",
+        "price":"$429.839",
+        "mileage":"8.600km",
+        "gearbox":"Automatic"
+       },
+       {
+        "series":6,
+        "id": "048",
+        "name": "Porsche",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKTuauymlc29wnFiQ7tYNWlQXu61Q19ICS-w&s",
+        "model": "991 Carrera T",
+        "year": "2018",
+        "price":"$115.000",
+        "mileage":"11.600km",
+        "gearbox":"Automatic"
+       },
+       {
+        "series":6,
+        "id": "049",
+        "name": "Porsche",
+        "image":"https://i.pinimg.com/736x/9b/69/23/9b6923728f4bfe0eab692a4f6ef899bb.jpg",
+        "model": "991 Speedster",
+        "year": "2018",
+        "price":"$339.997",
+        "mileage":"3.600km",
+        "gearbox":"Manual"
+       },
+       {
+        "series":6,
+        "id": "050",
+        "name": "Porsche",
+        "image":"https://i.pinimg.com/originals/bf/56/05/bf5605431e2334e31881c400a464dc02.jpg",
+        "model": "992 GT3",
+        "year": "2022",
+        "price":"$3.997",
+        "mileage":"3.600km",
+        "gearbox":"Automatic"
+       },
+       {
+        "series":6,
+        "id": "051",
+        "name": "Porsche",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZdFkf12AWRNSw6ZEEXYO4vVb4-J7mmBAx2A&s",
+        "model": "992 Sport Classic",
+        "year": "2022",
+        "price":"$362.997",
+        "mileage":"6.150km",
+        "gearbox":"Automatic"
+       },
+       {
+        "series":6,
+        "id": "052",
+        "name": "Porsche",
+        "image":"https://www.3develop.nl/blog/wp-content/uploads/2021/11/porsche-992-targa4-gts-1024x678.jpg",
+        "model": "992 Targa 4",
+        "year": "2022",
+        "price":"$163.997",
+        "mileage":"12km",
+        "gearbox":"Automatic"
+       },
+       {
+        "series":6,
+        "id": "053",
+        "name": "Porsche",
+        "image":"https://i.pinimg.com/736x/e1/63/c2/e163c2546eab10c6b8a6b9bea0adab0b.jpg",
+        "model": "992 Turbo",
+        "year": "2022",
+        "price":"$229.997",
+        "mileage":"15.000km",
+        "gearbox":"Automatic"
+       },
+
+
 
  ];
  
